@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Remotion
+.remotion/
+out/
+.cache/
+
+# Build/temp
+dist/
+build/
+*.log
+*.tmp
+
+# Audio working files
+public/audio/*.aiff
+
+# Environment
+.env
+.env.*
+!.env.example
