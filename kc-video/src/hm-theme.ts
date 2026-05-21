@@ -26,12 +26,12 @@ export const hmPalette = {
 };
 
 export const HM_SCENES = {
-  hook: { from: 0, duration: Math.round(4.19 * HM_FPS) },
-  vinayReveal: { from: Math.round(4.19 * HM_FPS), duration: Math.round(9.51 * HM_FPS) },
-  gagandeepReveal: { from: Math.round(13.70 * HM_FPS), duration: Math.round(8.04 * HM_FPS) },
-  zabiReveal: { from: Math.round(21.74 * HM_FPS), duration: Math.round(7.96 * HM_FPS) },
-  coursesHostel: { from: Math.round(29.70 * HM_FPS), duration: Math.round(4.25 * HM_FPS) },
-  mission: { from: Math.round(33.95 * HM_FPS), duration: Math.round(3.97 * HM_FPS) },
-  offer: { from: Math.round(37.92 * HM_FPS), duration: Math.round(3.08 * HM_FPS) },
-  cta: { from: Math.round(41.00 * HM_FPS), duration: Math.round(4.00 * HM_FPS) },
+  hook: { from: Math.round(0.000 * HM_FPS), duration: Math.round(2.752 * HM_FPS) },
+  vinayReveal: { from: Math.round(2.752 * HM_FPS), duration: Math.round(7.604 * HM_FPS) },
+  gagandeepReveal: { from: Math.round(10.356 * HM_FPS), duration: Math.round(6.304 * HM_FPS) },
+  zabiReveal: { from: Math.round(16.660 * HM_FPS), duration: Math.round(5.457 * HM_FPS) },
+  coursesHostel: { from: Math.round(22.117 * HM_FPS), duration: Math.round(7.558 * HM_FPS) },
+  mission: { from: Math.round(29.675 * HM_FPS), duration: Math.round(4.377 * HM_FPS) },
+  offer: { from: Math.round(34.052 * HM_FPS), duration: Math.round(4.261 * HM_FPS) },
+  cta: { from: Math.round(38.313 * HM_FPS), duration: Math.round(6.687 * HM_FPS) },
 };
